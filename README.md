@@ -1,5 +1,5 @@
 If you know how to run jupyter notebooks locally, just download 
-[MPCP.ipynb](/mgrigni/cs424s19/raw/master/MPCP.ipynb).
+[MPCP.ipynb](https://github.com/mgrigni/cs424s19/raw/master/MPCP.ipynb).
 
 Otherwise, to launch a "live" instance of the MPCP notebook, click here: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgrigni/cs424s19/master?filepath=MPCP.ipynb)
