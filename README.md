@@ -1,8 +1,6 @@
 **MPCP Notebook**
 
-If you know how to run jupyter notebooks locally, you may download MPCP.ipynb from this repository.
-
-Otherwise, to launch a "live" web instance, click here: 
+Otherwise, to launch a "live" web instance of MPCP.ipynb, click here: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgrigni/cs424s19/master?filepath=MPCP.ipynb)
 
 You may have to wait a minute for the notebook server to start.
